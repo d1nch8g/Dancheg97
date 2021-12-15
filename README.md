@@ -9,10 +9,8 @@
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
 
 
-
 <img align="left" alt="Visual Studio Code" width="51px"  height="51px" src="https://image.flaticon.com/icons/png/512/1822/1822899.png" />
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
-
 
 
 <img align="left" alt="Visual Studio Code" width="51px"  height="51px" src="https://stickker.net/wp-content/uploads/2018/11/flutter.png-578x578.png" />
@@ -23,6 +21,9 @@
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
 
 
+<br /><br />
+
+
 <img align="left" alt="Visual Studio Code" width="51px"  height="51px" src="https://i1.wp.com/techxposer.com/wp-content/uploads/2019/12/grpc-icon.png?fit=626%2C664" />
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
 
@@ -31,11 +32,8 @@
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
 
 
-
 <img align="left" alt="Visual Studio Code" width="51px"  height="51px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
-
-
 
 
 <img align="left" alt="Visual Studio Code" width="51px"  height="51px" src="https://www.drupal.org/files/project-images/rain-drop-hi.png" />
@@ -47,27 +45,21 @@
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
 
 
+<br /><br />
+
+
 <img align="left" alt="Visual Studio Code" width="51px"  height="51px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" />
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
-
 
 
 <img align="left" alt="Visual Studio Code" width="51px"  height="51px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 <img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
 
 
-
 <img align="left" alt="Visual Studio Code" width="51px"  height="51px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
+<img align="left" alt="Visual Studio Code" width="2.1px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" />
 
-<br /><br />
-
-
-<br />
-
-<br />
-
-
-<br />
+<br /><br /><br /><br /><br />
 
 
 # Interested in:

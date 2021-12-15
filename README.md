@@ -1,40 +1,3 @@
-# Interested in:
-
-- Modern tools
-- High load systems
-- Concurrency 
-- Research on vulnerabilities and optimization
-- Open-source technolodies
-
-# Languages:
-
-- Go
-- Dart
-- Python
-
-# Frameworks:
-
-- gRPC
-- TensorFlow
-- Flutter
-
-# Tools:
-
-- Docker
-- Git
-- Linux
-- SQL
-- Kubernetes
-
-# Skills:
-
-- Developing
-- Testing
-- Debugging
-- Refactoring
-
-
-<br />
 
 # My tool pack:
 
@@ -101,5 +64,43 @@
 
 <br />
 
+<br />
 
 
+<br />
+
+
+# Interested in:
+
+- Modern tools
+- High load systems
+- Concurrency 
+- Research on vulnerabilities and optimization
+- Open-source technolodies
+
+# Languages:
+
+- Go
+- Dart
+- Python
+
+# Frameworks:
+
+- gRPC
+- TensorFlow
+- Flutter
+
+# Tools:
+
+- Docker
+- Git
+- Linux
+- SQL
+- Kubernetes
+
+# Skills:
+
+- Developing
+- Testing
+- Debugging
+- Refactoring

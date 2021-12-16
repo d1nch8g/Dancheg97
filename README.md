@@ -35,10 +35,9 @@
 
 # Interested in:
 
-- Modern tools open-source technolodies
-- High load systems
-- Distributed systems
-- Vulnerabilities and optimization
+- High load distributed systems
+- Algorithms and optimization
+- Approaches to fast and stable development
 
 # Languages:
 
@@ -49,20 +48,6 @@
 # Frameworks:
 
 - gRPC
-- TensorFlow
 - Flutter
+- TensorFlow
 
-# Tools:
-
-- Docker
-- Git
-- Linux
-- SQL
-- Kubernetes
-
-# Skills:
-
-- Developing
-- Testing
-- Debugging
-- Refactoring

@@ -35,7 +35,8 @@
 
 # Interested in:
 
-- High load distributed systems
+- High load 
+- Distributed systems
 - Algorithms and optimization
 - Approaches to fast and stable development
 

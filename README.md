@@ -27,7 +27,7 @@
 <img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="51px"  height="51px" src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" />
 <img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="51px"  height="51px" src="https://cdn.freebiesupply.com/logos/large/2x/graylog-logo-png-transparent.png" />
 <img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="51px"  height="51px" src="https://avatars.githubusercontent.com/u/8562608?s=280&v=4" />
-<img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="51px"  height="51px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Visual_Studio_Code_1.18_icon.svg/1200px-Visual_Studio_Code_1.18_icon.svg.png" />
+<img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="51px"  height="51px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 
 
 <br /><br /><br /><br />

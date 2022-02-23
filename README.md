@@ -32,19 +32,20 @@
 
 <br /><br /><br /><br />
 
-
-# Interested in:
-
-- High load 
-- Distributed systems
-- Algorithms and optimization
-- Approaches to fast and stable development
-
 # Languages:
 
 - Go
 - Dart
 - Python
+- C#
+
+
+# Interested in:
+
+- Distributed systems
+- Algorithms and optimization
+- Approaches to fast and stable development
+
 
 # Frameworks:
 

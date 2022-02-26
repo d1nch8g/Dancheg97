@@ -10,9 +10,9 @@
 
 # DB's i use:
 
+<img dgraph align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://techcrunch.com/wp-content/uploads/2017/12/dgraph-mascot.png" />
 <img redis align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://camo.githubusercontent.com/4050472d0036e02ed3805e8329474f062eac6ae847ca0ac107d4889fa778711a/68747470733a2f2f6973332d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c653132342f76342f31372f63642f61322f31376364613261302d623634312d633364302d336432322d3134313730346134306565662f49636f6e2e706e672f313230307836333062622e706e67" />
 <img postgres align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img dgraph align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://techcrunch.com/wp-content/uploads/2017/12/dgraph-mascot.png" />
 <img mongo align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" />
 
 <br /><br /><br /><br /><br />
@@ -31,14 +31,14 @@
 <img git align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img docker align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
 <img kuber align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" />
-<img kuber align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.pixabay.com/photo/2020/02/22/16/29/penguin-4871045_640.png" />
+<img flutter align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://static.tildacdn.com/tild6634-3236-4237-b765-636562373338/flutter.svg" />
 
 
 <br /><br /><br /><br />
 
-<img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
-<img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" />
-<img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.freebiesupply.com/logos/large/2x/graylog-logo-png-transparent.png" />
-<img align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://avatars.githubusercontent.com/u/8562608?s=280&v=4" />
+<img tensorflow align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
+<img rabbitmq align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" />
+<img graylog align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.freebiesupply.com/logos/large/2x/graylog-logo-png-transparent.png" />
+<img bleve align="left" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://avatars.githubusercontent.com/u/8562608?s=280&v=4" />
 
 <br /><br /><br /><br />

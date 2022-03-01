@@ -1,5 +1,5 @@
 
-# <p  align="center" style="font-family:courier;font-size:90%" size=212px> Languages i use: </p> 
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Languages i use: </p> 
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 <img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 </p>
 
-# <p  align="center" style="font-family:courier;font-size:90%" size=212px> DB's i use: </p> 
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> DB's i use: </p> 
 
 <p align="center">
 <img dgraph align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://techcrunch.com/wp-content/uploads/2017/12/dgraph-mascot.png" />
@@ -20,7 +20,7 @@
 <img bleve align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://avatars.githubusercontent.com/u/8562608?s=280&v=4" />
 </p>
 
-# <p  align="center" style="font-family:courier;font-size:90%" size=212px> Protocols i use: </p> 
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Protocols i use: </p> 
 
 <p align="center">
 <img graphql align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
@@ -30,7 +30,7 @@
 </p>
 
 
-# <p  align="center" style="font-family:courier;font-size:90%" size=212px> Tools i use: </p> 
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Tools i use: </p> 
 
 <p align="center">
 <img git align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />

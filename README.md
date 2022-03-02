@@ -49,3 +49,13 @@
 
 TradeBits is interface for trading systems communications. Software that created with purpose of creation network of distributed trading systems.
 
+### [Go crypto to dart](https://github.com/Dancheg97/crypto_export)
+
+Project created to illustrate ability to export cryptography features from go language to dart using bridge of [dart ffi](https://dart.dev/guides/libraries/c-interop) and [cgo](https://pkg.go.dev/cmd/cgo). Related to this [article](https://habr.com/ru/post/561958/).
+
+
+# Social
+
+- [telegram@dancheg97](telegram@dancheg97)
+- [stackoverflow](https://stackoverflow.com/users/12497960/danila-fomin)
+- [habr](https://habr.com/ru/users/dancheg/)

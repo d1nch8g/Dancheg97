@@ -100,7 +100,7 @@ Project created to illustrate ability to export cryptography features from go la
 
 # Social
 
-- [DIS DANCHE#8722](di)
+- [discord DANCHE#8722](di)
 - [telegram@dancheg97](telegram@dancheg97)
 - [stackoverflow](https://stackoverflow.com/users/12497960/danila-fomin)
 - [habr](https://habr.com/ru/users/dancheg/)

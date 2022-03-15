@@ -97,6 +97,10 @@ TradeBits is interface for trading systems communications. Software that created
 
 Project created to illustrate ability to export cryptography features from go language to dart using bridge of [dart ffi](https://dart.dev/guides/libraries/c-interop) and [cgo](https://pkg.go.dev/cmd/cgo). Related to this [article](https://habr.com/ru/post/561958/).
 
+### [Go udp server template](https://github.com/Dancheg97/go_udp_server_example)
+
+Tiny example of go udp server, not to start from scratch in case i ever need one.
+
 
 # Social
 

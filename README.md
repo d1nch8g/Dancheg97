@@ -88,8 +88,11 @@
 </p>
 
 # Projects
+### [DISCORD ALERTS](https://github.com/Dancheg97/discord_alerts)
 
-### [TradeBits](https://github.com/Dancheg97/tradebits)
+Discord alerts is a simple application, that accepts http request in json or text format, and sends it to discord.
+
+### [TradeBits](https://github.com/Dancheg97/tradebits) - under development
 
 TradeBits is interface for trading systems communications. Software that created with purpose of creation network of distributed trading systems.
 

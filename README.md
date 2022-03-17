@@ -88,7 +88,7 @@
 </p>
 
 # Projects
-### [DISCORD ALERTS](https://github.com/Dancheg97/discord_alerts)
+### [discord alerts](https://github.com/Dancheg97/discord_alerts)
 
 Discord alerts is a simple application, that accepts http request in json or text format, and sends it to discord.
 

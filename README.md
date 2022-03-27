@@ -87,27 +87,9 @@
 </a>
 </p>
 
-# Projects
-### [Discord-alerts](https://github.com/Dancheg97/discord_alerts)
-
-Discord alerts is a simple application, that accepts http request in json or text format, and sends it to discord. Available for launch with docker or from prepared builds.
-
-### [TradeBits](https://github.com/Dancheg97/tradebits) - under development
-
-TradeBits is interface for trading systems communications. Software that created with purpose of creation network of distributed trading systems.
-
-### [Go crypto to dart](https://github.com/Dancheg97/crypto_export)
-
-Project created to illustrate ability to export cryptography features from go language to dart using bridge of [dart ffi](https://dart.dev/guides/libraries/c-interop) and [cgo](https://pkg.go.dev/cmd/cgo). Related to this [article](https://habr.com/ru/post/561958/).
-
-### [Go udp server template](https://github.com/Dancheg97/go_udp_server_example)
-
-Tiny example of go udp server, not to start from scratch in case i ever need one.
-
-
 # Social
 
-- [discord DANCHE#8722](di)
-- [telegram@dancheg97](telegram@dancheg97)
-- [stackoverflow](https://stackoverflow.com/users/12497960/danila-fomin)
-- [habr](https://habr.com/ru/users/dancheg/)
+- Discord: *DANCHE#8722*
+- Telegram: *@dancheg97*
+- Stackoverflow: [12497960](https://stackoverflow.com/users/12497960/danila-fominyh)
+- Habr: [dancheg](https://habr.com/ru/users/dancheg/)

@@ -92,4 +92,3 @@
 - Discord: *DANCHE#8722*
 - Telegram: *@dancheg97*
 - Stackoverflow: [12497960](https://stackoverflow.com/users/12497960/danila-fominyh)
-- Habr: [dancheg](https://habr.com/ru/users/dancheg/)

@@ -40,7 +40,7 @@
 </a>
 </p>
 
-## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Protocols i use: </p> 
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> API description languages i use: </p> 
 
 <p align="center">
 <a href='https://graphql.org/'>

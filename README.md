@@ -46,11 +46,11 @@
 <a href='https://graphql.org/'>
 <img graphql align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 </a>
-<a href='https://grpc.io/'>
-<img rest align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://i1.wp.com/techxposer.com/wp-content/uploads/2019/12/grpc-icon.png?fit=626%2C664" />
-</a>
 <a href='https://swagger.io/'>
-<img grpc align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://plugins.jetbrains.com/files/16422/164306/icon/pluginIcon.png" />
+<img rest align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
+</a>
+<a href='https://grpc.io/'>
+<img protobuf align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="88px"  height="88px" src="https://www.intrepid-geophysics.com/wp-content/uploads/2019/09/Google-protocol-buffer_2.png" />
 </a>
 </p>
 

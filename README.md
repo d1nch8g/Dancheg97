@@ -85,8 +85,8 @@
 <a href='https://www.elastic.co/'>
 <img elastic align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" />
 </a>
-<a href='https://cdn.iconscout.com/icon/free/png-256/gitlab-3521448-2944892.png'>
-<img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" />
+<a href='https://about.gitlab.com/'>
+<img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-3521448-2944892.png" />
 </a>
 </p>
 

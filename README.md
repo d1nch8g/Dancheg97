@@ -50,7 +50,7 @@
 <img rest align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://i1.wp.com/techxposer.com/wp-content/uploads/2019/12/grpc-icon.png?fit=626%2C664" />
 </a>
 <a href='https://swagger.io/'>
-<img grpc align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
+<img grpc align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://plugins.jetbrains.com/files/16422/164306/icon/pluginIcon.png" />
 </a>
 </p>
 

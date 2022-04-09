@@ -50,7 +50,7 @@
 <img rest align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://i1.wp.com/techxposer.com/wp-content/uploads/2019/12/grpc-icon.png?fit=626%2C664" />
 </a>
 <a href='https://swagger.io/'>
-<img grpc align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.drupal.org/files/project-images/rain-drop-hi.png" />
+<img grpc align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
 </a>
 <a href='https://www.ibm.com/docs/ru/rsas/7.5.0?topic=standards-soap'>
 <img soap align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.elastic.io/wp-content/themes/x-child-onix/images/for-connectors/soap.png" />

@@ -40,20 +40,6 @@
 </a>
 </p>
 
-## <p  align="center" style="font-family:courier;font-size:90%" size=212px> API description languages i use: </p> 
-
-<p align="center">
-<a href='https://graphql.org/'>
-<img graphql align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-</a>
-<a href='https://swagger.io/'>
-<img rest align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
-</a>
-<a href='https://grpc.io/'>
-<img protobuf align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="88px"  height="88px" src="https://www.intrepid-geophysics.com/wp-content/uploads/2019/09/Google-protocol-buffer_2.png" />
-</a>
-</p>
-
 
 ## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Tools i use: </p> 
 
@@ -62,7 +48,16 @@
 <img git align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 </a>
 <a href='https://www.docker.com/'>
-<img docker align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" />
+<img docker align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="58px" src="https://iconape.com/wp-content/files/fr/370801/svg/docker-icon-logo-icon-png-svg.png" />
+</a>
+<a href='https://graphql.org/'>
+<img graphql align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
+</a>
+<a href='https://swagger.io/'>
+<img rest align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" />
+</a>
+<a href='https://grpc.io/'>
+<img protobuf align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="78px"  height="78px" src="https://urbanonsoftware.com/assets/images/posts/grpc_in_dotnet/thumbnail2.png" />
 </a>
 <a href='https://kubernetes.io/'>
 <img kuber align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" />

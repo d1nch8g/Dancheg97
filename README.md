@@ -71,15 +71,6 @@
 <a href='https://www.tensorflow.org/'>
 <img tensorflow align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 </a>
-<a href='https://www.rabbitmq.com/'>
-<img rabbitmq align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://jpadilla.github.io/rabbitmqapp/assets/img/icon.png" />
-</a>
-<a href='https://www.graylog.org/'>
-<img graylog align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.freebiesupply.com/logos/large/2x/graylog-logo-png-transparent.png" />
-</a>
-<a href='https://www.elastic.co/'>
-<img elastic align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.freebiesupply.com/logos/large/2x/elasticsearch-logo-png-transparent.png" />
-</a>
 <a href='https://about.gitlab.com/'>
 <img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-3521448-2944892.png" />
 </a>

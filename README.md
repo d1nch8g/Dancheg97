@@ -38,9 +38,6 @@
 <a href='https://github.com/google/leveldb'>
 <img leveldb align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.freebiesupply.com/logos/large/2x/leveldb-logo-png-transparent.png" />
 </a>
-<a href='https://github.com/blevesearch/bleve'>
-<img bleve align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://avatars.githubusercontent.com/u/8562608?s=280&v=4" />
-</a>
 </p>
 
 

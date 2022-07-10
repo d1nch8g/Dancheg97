@@ -72,7 +72,7 @@
 <img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-3521448-2944892.png" />
 </a>
 <a href='https://svelte.dev/'>
-<img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="48px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" />
+<img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="58px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" />
 </a>
 </p>
 

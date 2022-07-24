@@ -81,14 +81,16 @@
 </a>
 </p>
 
+<p align="center">
+<a>
+<img git align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://thumbs.gfycat.com/AfraidHeavenlyCrossbill-max-1mb.gif" />
+</a>
+</p>
+
+
+
 # Social
 
 - Discord: *DANCHE#8722*
 - Telegram: *@dancheg97*
 - Stackoverflow: [12497960](https://stackoverflow.com/users/12497960/danila-fominyh)
-
-<p align="center">
-<center>
-  <img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;"  height="145px" src="https://thumbs.gfycat.com/AfraidHeavenlyCrossbill-max-1mb.gif" />
-</center>
-</p>

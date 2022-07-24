@@ -1,6 +1,4 @@
-
-## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Languages i use: </p> 
-
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Languages i use: </p>
 
 <p align="center">
 <a href='https://go.dev/'>
@@ -18,14 +16,13 @@
 <a href='https://www.typescriptlang.org/'>
 <img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
 </a>
-
 </a>
 <a href='https://www.javascript.com/'>
 <img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
 </a>
 </p>
 
-## <p  align="center" style="font-family:courier;font-size:90%" size=212px> DB's i use: </p> 
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> DB's i use: </p>
 
 <p align="center">
 <a href='https://dgraph.io/'>
@@ -45,8 +42,7 @@
 </a>
 </p>
 
-
-## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Tools i use: </p> 
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Tools i use: </p>
 
 <p align="center">
 <a href='https://git-scm.com/'>
@@ -83,14 +79,12 @@
 
 # Social
 
-- Discord: *DANCHE#8722*
-- Telegram: *@dancheg97*
+- Discord: _DANCHE#8722_
+- Telegram: _@dancheg97_
 - Stackoverflow: [12497960](https://stackoverflow.com/users/12497960/danila-fominyh)
-
 
 <p align="center">
 <a>
-<img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" src="https://c.tenor.com/Es_130XuwsAAAAAM/anime-cat.gif" />
+<img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" src="anime.gif" />
 </a>
 </p>
-

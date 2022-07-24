@@ -86,3 +86,9 @@
 - Discord: *DANCHE#8722*
 - Telegram: *@dancheg97*
 - Stackoverflow: [12497960](https://stackoverflow.com/users/12497960/danila-fominyh)
+
+<p>
+<a>
+<img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;"  height="145px" src="https://thumbs.gfycat.com/AfraidHeavenlyCrossbill-max-1mb.gif" />
+</a>
+</p>

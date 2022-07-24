@@ -1,12 +1,4 @@
 
-<p align="center">
-<a>
-<img git align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="124px" src="http://pa1.narvii.com/7370/8309286d6cc9ee020bd9963f42ccfc327c24d509r1-400-400_00.gif" />
-</a>
-</p>
-
-
-
 ## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Languages i use: </p> 
 
 
@@ -94,3 +86,11 @@
 - Discord: *DANCHE#8722*
 - Telegram: *@dancheg97*
 - Stackoverflow: [12497960](https://stackoverflow.com/users/12497960/danila-fominyh)
+
+
+<p align="center">
+<a>
+<img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" src="https://c.tenor.com/Es_130XuwsAAAAAM/anime-cat.gif" />
+</a>
+</p>
+

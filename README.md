@@ -18,6 +18,11 @@
 <a href='https://www.typescriptlang.org/'>
 <img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" />
 </a>
+
+</a>
+<a href='https://www.javascript.com/'>
+<img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
+</a>
 </p>
 
 ## <p  align="center" style="font-family:courier;font-size:90%" size=212px> DB's i use: </p> 

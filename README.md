@@ -85,6 +85,6 @@
 
 <p align="center">
 <a>
-<img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" src="anime.gif" />
+<img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" width="64px" src="anime.gif" />
 </a>
 </p>

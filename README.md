@@ -83,12 +83,10 @@
   <tr>
     <th>
         <ul>
-            <li>Discord: DANCHE#8722</li>
-            <li>Telegram: @dancheg97</li>
-            <li href="https://stackoverflow.com/users/12497960/danila-fominyh">Stackoverflow: 12497960</li>
+            <li align="left">Discord: DANCHE#8722</li>
+            <li align="left">Telegram: @dancheg97</li>
+            <li align="left">Stackoverflow: 12497960</li>
         </ul>
-    </th>
-    <th style="width: 30%">
     </th>
     <th>
         <a>

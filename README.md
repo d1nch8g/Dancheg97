@@ -79,12 +79,23 @@
 
 # Social
 
-- Discord: _DANCHE#8722_
-- Telegram: _@dancheg97_
-- Stackoverflow: [12497960](https://stackoverflow.com/users/12497960/danila-fominyh)
+<table style="width: 100%">
+  <tr>
+    <th style="width: 30%">
+        <ul>
+            <li>Discord: DANCHE#8722</li>
+            <li>Telegram: @dancheg97</li>
+            <li href="https://stackoverflow.com/users/12497960/danila-fominyh">Stackoverflow: 12497960</li>
+        </ul>
+    </th>
+    <th style="width: 70%">
+        <a>
+        <img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" src="anime.gif" />
+        </a>
+    </th>
+  </tr>
+</table>
 
 <p align="center">
-<a>
-<img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" src="anime.gif" />
-</a>
+
 </p>

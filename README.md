@@ -81,14 +81,14 @@
 
 <table style="width: 100%">
   <tr>
-    <th style="width: 30%">
+    <th>
         <ul>
             <li>Discord: DANCHE#8722</li>
             <li>Telegram: @dancheg97</li>
             <li href="https://stackoverflow.com/users/12497960/danila-fominyh">Stackoverflow: 12497960</li>
         </ul>
     </th>
-    <th style="width: 70%">
+    <th>
         <a>
         <img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" src="anime.gif" />
         </a>

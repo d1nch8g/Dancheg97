@@ -95,7 +95,3 @@
     </th>
   </tr>
 </table>
-
-<p align="center">
-
-</p>

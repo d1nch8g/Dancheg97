@@ -96,6 +96,3 @@
   </tr>
 </table>
 
-<!--
-https://marketplace.visualstudio.com/manage/publishers/dancheg97
--->

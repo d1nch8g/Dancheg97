@@ -25,14 +25,14 @@
 ## <p  align="center" style="font-family:courier;font-size:90%" size=212px> DB's i use: </p>
 
 <p align="center">
-<a href='https://dgraph.io/'>
-<img dgraph align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://techcrunch.com/wp-content/uploads/2017/12/dgraph-mascot.png" />
+<a href='https://www.postgresql.org/'>
+<img postgres align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
 </a>
 <a href='https://redis.io/'>
 <img redis align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://camo.githubusercontent.com/4050472d0036e02ed3805e8329474f062eac6ae847ca0ac107d4889fa778711a/68747470733a2f2f6973332d73736c2e6d7a7374617469632e636f6d2f696d6167652f7468756d622f507572706c653132342f76342f31372f63642f61322f31376364613261302d623634312d633364302d336432322d3134313730346134306565662f49636f6e2e706e672f313230307836333062622e706e67" />
 </a>
-<a href='https://www.postgresql.org/'>
-<img postgres align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
+<a href='https://dgraph.io/'>
+<img dgraph align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://techcrunch.com/wp-content/uploads/2017/12/dgraph-mascot.png" />
 </a>
 <a href='https://www.mongodb.com/'>
 <img mongo align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://emanueleciriachi.net/wp-content/uploads/2019/01/logo-mongodb-png-mongodb-logo-png-400.png" />

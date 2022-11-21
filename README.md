@@ -7,9 +7,6 @@
 <a href='https://www.python.org/'>
 <img python align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
 </a>
-<a href='https://docs.microsoft.com/en-us/dotnet/csharp/'>
-<img c# align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://static.wikia.nocookie.net/wikies/images/4/43/Logo-csharp.png/revision/latest?cb=20180617092325&path-prefix=ru" />
-</a>
 <a href='https://dart.dev/'>
 <img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
 </a>

@@ -73,23 +73,3 @@
 <img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="58px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" />
 </a>
 </p>
-
-# Social
-
-<table style="width: 100%">
-  <tr>
-    <th>
-        <ul>
-            <li align="left">Discord: DANCHE#8722</li>
-            <li align="left">Telegram: @dancheg97</li>
-            <li align="left">Stackoverflow: 12497960</li>
-        </ul>
-    </th>
-    <th>
-        <a>
-        <img git align="right" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" height="64px" src="anime.gif" />
-        </a>
-    </th>
-  </tr>
-</table>
-

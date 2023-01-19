@@ -66,8 +66,8 @@
 <a href='https://www.tensorflow.org/'>
 <img tensorflow align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" />
 </a>
-<a href='https://about.gitlab.com/'>
-<img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.iconscout.com/icon/free/png-256/gitlab-3521448-2944892.png" />
+<a href='https://gitea.io/en-us/'>
+<img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://gitea.io/images/gitea.png" />
 </a>
 <a href='https://svelte.dev/'>
 <img gitlab align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="58px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1702px-Svelte_Logo.svg.png" />

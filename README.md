@@ -17,9 +17,6 @@
 <a href='https://www.javascript.com/'>
 <img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
 </a>
-<a href='https://en.wikipedia.org/wiki/C_(programming_language)'>
-<img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/240px-The_C_Programming_Language_logo.svg.png" />
-</a>
 <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)'>
 <img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" />
 </a>

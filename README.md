@@ -5,7 +5,7 @@
 <img go align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px" height="68px" src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.png" /> 
 </a>
 <a href='https://www.python.org/'>
-<img python align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" />
+<img python align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://i.pinimg.com/originals/95/91/ed/9591ed82caa8d20c30db96cb7298d3a9.png" />
 </a>
 <a href='https://dart.dev/'>
 <img dart align="center" style="padding-left: 10px; padding-right: 10px; padding-bottom: 10px;" width="68px"  height="68px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />

@@ -60,5 +60,5 @@
 ## <p  align="center" style="font-family:courier;font-size:90%" size=212px> My personal git service: </p>
 
 <p align="center">
-<a href='https://dancheg97.ru/'><img class="logo_main" src="https://backstage.io/animations/backstage-techdocs-icon-1.gif" ></a>
+<a href='https://dancheg97.ru/'><img class="logo_main" src="https://i.pinimg.com/originals/57/3c/da/573cdaf5205bebaac51ca29273dd5514.gif" ></a>
 </p>

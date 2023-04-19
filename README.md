@@ -4,7 +4,7 @@
 <a href='https://fmnx.ru/'><img class="logo_main" height="220px" src="./logo.png" ></a>
 </p>
 
-I am building my distribution with a clear intention to prove, that linux is not hust the only choice for developers, but now suitable for regular users in all life aspects. My will is to increase linux popularity and build beautiful software, that will help users to reduce the impact of global corporations on their lifes.
+I am building my linux distribution with a clear intention to prove, that linux is now suitable for regular users in regular life aspects. My will is to increase linux popularity and build beautiful software for that platform, to reduce the impact of global corporations on users lifes.
 
 - [FMNX web url](https://fmnx.ru/)
 

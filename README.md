@@ -57,8 +57,8 @@
   <a><img align="center" width="10px" height="68px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
 </p>
 
-## <p  align="center" style="font-family:courier;font-size:90%" size=212px> My personal git service: </p>
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> My git service: </p>
 
 <p align="center">
-<a href='https://fmnx.ru/'><img class="logo_main" src="https://fmnx.ru/dancheg97/composer/media/branch/main/logo.gif" ></a>
+<a href='https://fmnx.ru/'><img class="logo_main" height="142px" src="https://fmnx.ru/dancheg97/fmnx/media/branch/main/airootfs/usr/local/share/backgrounds/fmnx-linux.png" ></a>
 </p>

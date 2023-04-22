@@ -1,10 +1,10 @@
-## <p  align="center" style="font-family:courier;font-size:90%" size=212px> Author of FMNX linux distribution: </p>
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> About FMNX linux distribution. </p>
 
 <p align="center">
 <a href='https://fmnx.ru/'><img class="logo_main" height="220px" src="./logo.png" ></a>
 </p>
 
-I am building my linux distribution with a clear intention to prove, that linux is now suitable for regular users in regular life aspects. My will is to increase linux popularity and build beautiful software for that platform, to reduce the impact of global corporations on users lifes.
+I am working on FMNX linux distribution with a clear intention to show, that linux and it's derivatives are now superior over any proprietary stuff.
 
 - [FMNX web url](https://fmnx.ru/)
 

@@ -9,7 +9,7 @@ This linux distro is build to simplify development process as much as possible. 
 - [FMNX web url](https://fmnx.ru/)
 
 <p align="center">
-<a href='https://fmnx.ru/'><img style="max-height: 300px" src="./system.gif" ></a>
+<a href='https://fmnx.ru/'><img style="max-width: 80%" src="./system.gif" ></a>
 </p>
 
 ## <p  align="center" style="font-family:courier;font-size:90%" size=142px> Languages i use: </p>

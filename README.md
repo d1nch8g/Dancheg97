@@ -4,7 +4,7 @@
 <a href='https://fmnx.ru/'><img class="logo_main" height="220px" src="./logo.png" ></a>
 </p>
 
-I am working on FMNX linux distribution with a clear intention to show, that linux and it's derivatives are now superior over any proprietary stuff.
+This linux distro is build to simplify development process as much as possible. The main goal is to provide appropriate devtools in minimal arch environment. Full distro description is available on page below ⬇️. 
 
 - [FMNX web url](https://fmnx.ru/)
 

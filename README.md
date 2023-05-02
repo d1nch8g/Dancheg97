@@ -1,7 +1,7 @@
 ## <p  align="center" style="font-family:courier;font-size:90%" size=212px> About FMNX linux distribution. </p>
 
 <p align="center">
-<a href='https://fmnx.io/'><img class="logo_main" height="220px" src="./logo.png" ></a>
+<a href='https://fmnx.io/'><img class="logo_main" height="220px" src="https://fmnx.io/dev/fmnx/media/branch/main/airootfs/usr/local/share/backgrounds/fmnx-linux.png" ></a>
 </p>
 
 This linux distro is build to simplify development process as much as possible. The main goal is to provide appropriate devtools in minimal arch environment. Full distro description is available on page below ⬇️.

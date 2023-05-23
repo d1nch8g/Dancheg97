@@ -6,9 +6,8 @@
 
 In this modern, distributed, open-source world we should be able to accumulate and integrate existing experience and knowledge, keeping our systems cutting edge flow.
 
-- [Main page](https://fmnx.io/)
-- [Documentation](https://docs.fmnx.io/)
-- [Project source code](https://fmnx.io/dev/)
+- [Main page](https://fmnx.su/)
+- [Core projects](https://fmnx.su/core/)
 
 <p align="center">
 <a href='https://fmnx.io/'><img style="max-width: 80%" src="./system.gif" ></a>

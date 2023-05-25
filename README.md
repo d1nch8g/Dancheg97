@@ -9,10 +9,6 @@ In this modern, distributed, open-source world we should be able to accumulate a
 - [Main page](https://fmnx.su/)
 - [Core projects](https://fmnx.su/core/)
 
-<p align="center">
-<a href='https://fmnx.io/'><img style="max-width: 80%" src="./system.gif" ></a>
-</p>
-
 ## <p  align="center" style="font-family:courier;font-size:90%" size=142px> Languages i use: </p>
 
 <p align="center">

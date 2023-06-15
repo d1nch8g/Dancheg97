@@ -6,9 +6,6 @@
 
 In this modern, distributed, open-source world we should be able to accumulate and integrate existing experience and knowledge, keeping our systems cutting edge flow.
 
-- [Main page](https://fmnx.su/)
-- [Core projects](https://fmnx.su/core/)
-
 ## <p  align="center" style="font-family:courier;font-size:90%" size=142px> Languages i use: </p>
 
 <p align="center">

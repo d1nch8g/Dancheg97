@@ -53,8 +53,6 @@ In this modern, distributed, open-source world we should be able to accumulate a
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
   <a href='https://gitea.io/'><img align="center" width="60px"  height="60px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/gitea_icon_146173.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
-  <a href='https://wiki.archlinux.org/title/pacman'><img align="center" width="60px"  height="60px" src="https://pngimg.com/d/pacman_PNG79.png" /></a>
-  <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
   <a href='https://github.com/fmnx-su/pack'><img align="center" width="60px"  height="60px" src="https://github.com/fmnx-su/pack/raw/main/logo.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
 </p>

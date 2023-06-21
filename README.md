@@ -1,8 +1,8 @@
 <p align="center">
-<a href='https://fmnx.io/'><img class="logo_main" height="160px" src="https://fmnx.su/dev/fmnx/media/branch/main/airootfs/usr/local/share/backgrounds/fmnx-linux.png" ></a>
+<a href='https://fmnx.su/'><img class="logo_main" height="160px" src="https://fmnx.su/dev/fmnx/media/branch/main/airootfs/usr/local/share/backgrounds/fmnx-linux.png" ></a>
 </p>
 
-## <p  align="center" style="font-family:courier;font-size:90%" size=212px> About FMNX linux distribution. </p>
+## <p  align="center" style="font-family:courier;font-size:90%" size=212px> About fmnx linux distribution. </p>
 
 In this modern, distributed, open-source world we should be able to accumulate and integrate existing experience and knowledge, keeping our systems cutting edge flow.
 
@@ -12,6 +12,7 @@ In this modern, distributed, open-source world we should be able to accumulate a
   <a href='https://go.dev/'><img align="center" width="60px" height="60px" src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
   <a href='https://www.python.org/'><img python align="center" width="60px"  height="60px" src="https://i.pinimg.com/originals/95/91/ed/9591ed82caa8d20c30db96cb7298d3a9.png" /></a>
+  <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)'><img align="center" width="60px"  height="60px" src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
   <a href='https://dart.dev/'><img align="center" width="60px"  height="60px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
@@ -20,7 +21,6 @@ In this modern, distributed, open-source world we should be able to accumulate a
   </a>
   <a href='https://www.javascript.com/'><img align="center" width="60px"  height="60px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
-  <a href='https://en.wikipedia.org/wiki/Bash_(Unix_shell)'><img align="center" width="60px"  height="60px" src="https://orion42.net/wp-content/uploads/2019/10/full_colored_dark_green42.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
   <a href='https://en.wikipedia.org/wiki/Markdown'><img align="center" width="60px"  height="60px" src="https://cdn.iconscout.com/icon/free/png-256/markdown-3629496-3031559.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
@@ -51,16 +51,12 @@ In this modern, distributed, open-source world we should be able to accumulate a
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
   <a href='https://numpy.org/'><img align="center" width="60px"  height="60px" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
-  <a href='https://pillow.readthedocs.io/en/stable/'><img align="center" width="60px"  height="60px" src="https://raw.githubusercontent.com/python-pillow/pillow-logo/main/pillow-logo-248x250.png" /></a>
+  <a href='https://gitea.io/'><img align="center" width="60px"  height="60px" src="https://cdn.icon-icons.com/icons2/2407/PNG/512/gitea_icon_146173.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
-  <a href='https://gitea.io/en-us/'><img align="center" width="60px"  height="60px" src="https://gitea.io/images/gitea.png" /></a>
+  <a href='https://wiki.archlinux.org/title/pacman'><img align="center" width="60px"  height="60px" src="https://pngimg.com/d/pacman_PNG79.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
-  <a href='https://www.drone.io/'><img align="center" width="60px"  height="60px" src="https://images.saasworthy.com/droneio_10195_logo_1623855194_r2fzc.png" /></a>
-  <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
-  <a href='https://github.com/louislam/uptime-kuma'><img align="center" width="60px"  height="60px" src="https://github.com/louislam/uptime-kuma/raw/master/public/icon.svg" /></a>
-  <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
-  <a href='https://dozzle.dev/'><img align="center" width="60px"  height="60px" src="https://raw.githubusercontent.com/selfhosters/unRAID-CA-templates/master/templates/img/dozzle.png" /></a>
-  <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
-  <a href='https://squidfunk.github.io/mkdocs-material/'><img align="center" width="60px"  height="60px" src="https://v4.mui.com/static/logo.png" /></a>
+  <a href='https://github.com/fmnx-su/pack'><img align="center" width="60px"  height="60px" src="https://github.com/fmnx-su/pack/raw/main/logo.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
 </p>
+
+And many others...

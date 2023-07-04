@@ -1,5 +1,5 @@
 <p align="center">
-<a href='https://fmnx.su/'><img class="logo_main" height="160px" src="https://fmnx.su/dev/fmnx/media/branch/main/airootfs/usr/local/share/backgrounds/fmnx-linux.png" ></a>
+<a href='https://fmnx.su/'><img class="logo_main" height="160px" src="https://fmnx.su/assets/img/logo.svg" ></a>
 </p>
 
 ## <p  align="center" style="font-family:courier;font-size:90%" size=212px> About fmnx linux distribution. </p>

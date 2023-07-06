@@ -56,5 +56,3 @@ In this modern, distributed, open-source world we should be able to accumulate a
   <a href='https://github.com/fmnx-su/pack'><img align="center" width="60px"  height="60px" src="https://github.com/fmnx-su/pack/raw/main/logo.png" /></a>
   <a><img align="center" width="10px" height="60px" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png?20091205084734" /></a>
 </p>
-
-And many many more...

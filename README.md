@@ -2,7 +2,7 @@
 <a href='https://fmnx.su/'><img class="logo_main" height="160px" src="https://fmnx.su/assets/img/logo.svg" ></a>
 </p>
 
-In this modern, distributed, open-source world we should be able to accumulate and integrate existing experience and knowledge, keeping our systems cutting edge flow.
+In this modern, distributed, self-hosted world we should be able to accumulate and integrate existing experience and knowledge, keeping our systems cutting edge flow.
 
 ## <p  align="center" style="font-family:courier;font-size:90%" size=142px> Languages i use: </p>
 
